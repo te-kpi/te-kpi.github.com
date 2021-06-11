@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+}
+.container{
+    max-width: 1180px;
+    margin: 0 auto;
+}
+.header__img{
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+.main{
+    margin-top: 30px;
+}
+
+.title{
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+p{
+    margin-top: 15px;
+    font-size: 18px;
+    text-align: justify;
+}
+.centre__text{
+
+    font-size: 18px;
+    text-align: justify;
+    padding: 15px 15% 0;
+    display: block;
+    margin: 0 auto;
+}
+.href{
+    text-decoration: none;
+    transition: all .3s linear;
+}
+.href:hover{
+    color: blue;
+}
+.header2{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
