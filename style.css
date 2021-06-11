@@ -1,6 +1,9 @@
 *{
     margin: 0;
 }
+body{
+    padding: 10px;
+}
 .container{
     max-width: 1180px;
     margin: 0 auto;
